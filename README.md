@@ -30,7 +30,7 @@ https://academy.uipath.com/courses/variables-and-arguments-in-studio-web
 You can post this achievement on your social media handles (Linkedin) by tagging 
 @Rajalakshmi Engineering College
 @UiPath
-@UiPath 
+@UiPath Community
 @Vibhor Shrivastava
 @Rohit Radhakrishnan
 @Suhani Singh
