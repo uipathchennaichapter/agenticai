@@ -1,7 +1,7 @@
 **REC**
 
 https://cloud.uipath.com/
-
+----------
 Learning plan structure
 
 Automation Explorer with UiPath Studio Web
@@ -12,6 +12,33 @@ Get started with UiPath Studio Web
 2h 20m
 
 Build automations in UiPath Studio Web-use low-code and Gen AI tools to speed up automation development.
+
+https://academy.uipath.com/courses/get-started-with-uipath-studio-web
+
+Variables and arguments in Studio Web
+2 Modules
+1h 20m
+
+Define and configure variables, arguments, and modular workflows using UiPath Studio Web’s Invoke activity.
+
+https://academy.uipath.com/courses/variables-and-arguments-in-studio-web
+
+Control flow in Studio Web
+2 Modules
+1h 20m
+
+Learn the core control flow activities in UiPath Studio Web, equipping you with the skills to build smart, adaptable automations.
+
+https://academy.uipath.com/courses/control-flow-in-studio-web
+
+User interface automation with Studio Web
+2 Modules
+2h 20m
+
+Automate web tasks with UiPath Studio Web-extract data, fill forms, and manage files without coding.
+
+https://academy.uipath.com/courses/user-interface-automation-with-studio-web
+----------
 
 https://academy.uipath.com/courses/get-started-with-uipath-studio-web
 
