@@ -1,7 +1,9 @@
 **REC**
 
 https://cloud.uipath.com/
-----------
+
+====================================================================================================
+
 Learning plan structure
 
 Automation Explorer with UiPath Studio Web
@@ -38,7 +40,8 @@ User interface automation with Studio Web
 Automate web tasks with UiPath Studio Web-extract data, fill forms, and manage files without coding.
 
 https://academy.uipath.com/courses/user-interface-automation-with-studio-web
-----------
+
+====================================================================================================
 
 https://academy.uipath.com/courses/get-started-with-uipath-studio-web
 
