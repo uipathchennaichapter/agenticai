@@ -27,6 +27,14 @@ Define and configure variables, arguments, and modular workflows using UiPath St
 
 https://academy.uipath.com/courses/variables-and-arguments-in-studio-web
 
+Google Form
+
+https://forms.gle/JFgWT7wYdhSi7bDo8
+
+Google Sheet
+
+https://docs.google.com/spreadsheets/d/1tgOOELTUiiWAZHj9hEIsg1lrYYppnCfQCITlalf04NM/edit?usp=sharing
+
 You can post this achievement on your social media handles (Linkedin) by tagging 
 @Rajalakshmi Engineering College
 @UiPath
