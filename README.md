@@ -65,6 +65,10 @@ Google Sheet
 
 https://docs.google.com/spreadsheets/d/1tgOOELTUiiWAZHj9hEIsg1lrYYppnCfQCITlalf04NM/edit?usp=sharing
 
+NIRF
+
+https://www.nirfindia.org/Rankings/2025/EngineeringRankingALL.html
+
 You can post this achievement on your social media handles (Linkedin) by tagging 
 @Rajalakshmi Engineering College
 @UiPath
