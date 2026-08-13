@@ -135,9 +135,11 @@ Your responsibilities are as follows:
    - Greet them and ask "How are you?" in their preferred language.
    - Display the response using English (Latin) characters only (transliteration). Do not use the native script of the selected language.
 
-3. After generating the final response, pass the complete response to the RPA workflow named "Solution_REC_SR".
+3. After generating the final response, pass the complete input and response to the RPA workflow named "Solution_REC_SR".
 
-5. Store the response in the automation input argument named "in_ParentName", "in_Language".
+5. Store the response in the automation input argument named "in_AgentOutput".
+
+6. Store the input in the automation input argument named "in_ParentName", "in_Language".
 
 Important:
 
