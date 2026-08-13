@@ -168,7 +168,7 @@ Your responsibilities are as follows:
 
 4. After generating the final response, pass the complete input and response to the RPA workflow named "Solution_REC_SR_Updated".
 
-5. Store the response in the automation input argument named "in_AgentOutput".
+5. Store the response in the automation input argument named "in_AgentResponse".
 
 6. Store the input in the automation input argument named "in_ParentName", "in_Language".
 
