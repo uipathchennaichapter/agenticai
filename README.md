@@ -57,6 +57,49 @@ Define and configure variables, arguments, and modular workflows using UiPath St
 
 https://academy.uipath.com/courses/variables-and-arguments-in-studio-web
 
+Agentic Automation
+9h 50m
+
+Build your first agent with UiPath Studio Web
+2 Modules
+2h 55m
+
+Start agentic automation with UiPath Studio Web – build agents using no-code and AI-assisted tools.
+
+https://academy.uipath.com/courses/build-your-first-agent-with-uipath-studio-web
+
+Agentic prompt engineering
+2 Modules
+1h 20m
+
+Unleash AI magic with prompt engineering! Whether you build, analyze, or just explore, learn to speak fluently with LLMs.
+
+https://academy.uipath.com/courses/agentic-prompt-engineering
+
+Configure context and escalations for agents
+2 Modules
+1h 25m
+
+Advance agentic automation skills-implement context grounding & escalations in UiPath Studio Web.
+
+https://academy.uipath.com/courses/configure-context-and-escalations-for-agents
+
+Configure tools for agents
+2 Modules
+2h 15m
+
+Learn how to design, configure, and govern tools that extend the capabilities of intelligent agents in UiPath Studio Web.
+
+https://academy.uipath.com/courses/configure-tools-for-agents
+
+Configure evaluations for agents
+2 Modules
+1h 25m
+
+Evaluate agents in UiPath Studio Web-use Gen AI scoring and reusable evaluators for smarter automation.
+
+https://academy.uipath.com/courses/configure-evaluations-for-agents
+
 Google Form
 
 https://forms.gle/JFgWT7wYdhSi7bDo8
